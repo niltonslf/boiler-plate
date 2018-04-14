@@ -1,0 +1,24 @@
+/*
+    Global style
+*/
+
+html,
+body {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: $font-primary;
+    font-size: 15px;
+}
+
+img {
+    max-width: 100%;
+}
+
+a{
+    text-decoration: none !important; 
+}
+.clear{
+    clear: both;
+}
